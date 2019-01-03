@@ -1,0 +1,23 @@
+nama : Isa Mulia Insan
+Nim 1301150038
+
+(beres)
+(tidak Beres)
+
+1. Gray 		(beres)
+2. zoom in 		(beres)
+3. zoom out		(beres)
+4. a. crop atas		(beres)
+   b. crop bawah	(beres)
+   c. crop kiri		(beres)
+   d. crop kanan	(beres)
+5. a. brightness	(beres)
+   b. brightnessout	(beres)
+6. Histogram 		(tidak)
+7. Konvolusi
+   a. Blur		(beres)
+   b. Sharp		(beres)
+   c. Edge Sekeleton	(beres)
+8. Segmentation	
+   a. Threshold		(beres)
+   b. region growth	(tidak)
